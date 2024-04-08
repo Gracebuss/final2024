@@ -118,6 +118,17 @@ h3 {
     
 }
 
+thead {
+color: #bb8368
+
+}
+table {
+
+background:#bb8368;
+color:white;
+
+}
+
 figcaption {
 font-weight: bold;
 
